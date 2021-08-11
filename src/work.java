@@ -6,7 +6,6 @@ public class work {
             System.out.println(Arrays.toString(array));
             Changemassiv(array);
             System.out.println(Arrays.toString(array));
-
             System.out.println("Задание 2");
             int [] newArray_1 = new int[100];
             System.out.println(Arrays.toString(newArray_1));
